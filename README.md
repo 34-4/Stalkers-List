@@ -24,8 +24,8 @@ Rank Range	Threat Level	Description
 
 1–5	Low	Minor stalking activity. Mostly harmless.
 6–10	Medium	Avoid sharing sensitive information. May screenshot content.
-11–15	High ⚠️	Be cautious — may track and store multiple forms of data (text, images, audio).
-16–20	Extreme Threat	Known for consistent and invasive stalking. Use extreme caution.
+11–15	High ⚠️	Be cautious, may track and store multiple forms of data (text, images, audio).
+16–20	Extreme Threat Known for consistent and invasive stalking. Use extreme caution.
 
 
 
