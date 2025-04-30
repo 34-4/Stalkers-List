@@ -8,8 +8,9 @@ Invite: https://discord.gg/foxzie/
 
 Foxzie’s Server Stalkers List
 
-> Last Updated: [Date here]
-This list is regularly updated. Check back for changes.
+> Last Updated: 01/05/2025
+
+This list isn't regularly updated. Check back for changes.
 If you suspect someone, ping @xtr1 with their username.
 
 
