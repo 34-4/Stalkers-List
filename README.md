@@ -93,7 +93,7 @@ Stalker List
 14. deadgamer - @vannedgamer
 
 
-15. Ervan (CEO)
+15. Ervan
 
 
 
